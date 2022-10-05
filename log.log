@@ -1,0 +1,54 @@
+2022/08/09 00:56:55 C:/develop/GoLang/ginpro/main.go:27: log start.
+2022/08/09 00:58:29 C:/develop/GoLang/ginpro/main.go:27: log start.
+2022/08/09 00:58:39 C:/develop/GoLang/ginpro/main.go:58: failed to scan row: sql: Scan error on column index 0, name "id": destination pointer is nil
+2022/08/09 01:43:56 C:/develop/GoLang/ginpro/main.go:21: log start.
+2022/08/09 01:46:21 C:/develop/GoLang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/09 01:46:21 C:/develop/GoLang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/09 01:46:21 C:/develop/GoLang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/09 01:46:21 C:/develop/GoLang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/09 01:46:21 C:/develop/GoLang/ginpro/main.go:54: id: %!d(string=taro)
+2022/08/09 01:46:21 C:/develop/GoLang/ginpro/main.go:55: pass: %!d(string=555)
+2022/08/09 01:46:21 C:/develop/GoLang/ginpro/main.go:69: OK hello parameter
+2022/08/09 02:20:29 C:/develop/GoLang/ginpro/main.go:21: log start.
+2022/08/09 02:20:29 C:/develop/GoLang/ginpro/logging/printout.go:8: OKDESU
+2022/08/09 02:20:50 C:/develop/GoLang/ginpro/main.go:56: id: %!d(string=koji)
+2022/08/09 02:20:50 C:/develop/GoLang/ginpro/main.go:57: pass: %!d(string=123)
+2022/08/09 02:20:50 C:/develop/GoLang/ginpro/main.go:56: id: %!d(string=koji)
+2022/08/09 02:20:50 C:/develop/GoLang/ginpro/main.go:57: pass: %!d(string=123)
+2022/08/09 02:20:50 C:/develop/GoLang/ginpro/main.go:56: id: %!d(string=taro)
+2022/08/09 02:20:50 C:/develop/GoLang/ginpro/main.go:57: pass: %!d(string=555)
+2022/08/09 02:20:50 C:/develop/GoLang/ginpro/main.go:71: OK hello parameter
+2022/08/13 22:37:49 C:/develop/14_Golang/ginpro/main.go:21: log start.
+2022/08/13 22:38:12 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/13 22:38:12 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:38:12 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/13 22:38:12 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:38:12 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=taro)
+2022/08/13 22:38:12 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=555)
+2022/08/13 22:38:12 C:/develop/14_Golang/ginpro/main.go:69: OK hello parameter
+2022/08/13 22:38:24 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/13 22:38:24 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:38:24 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/13 22:38:24 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:38:24 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=taro)
+2022/08/13 22:38:24 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=555)
+2022/08/13 22:38:24 C:/develop/14_Golang/ginpro/main.go:69: NG hello parameter
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=taro)
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=555)
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=minari)
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:38:43 C:/develop/14_Golang/ginpro/main.go:69: OK hello parameter
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=koji)
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=taro)
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=555)
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:54: id: %!d(string=minari)
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:55: pass: %!d(string=123)
+2022/08/13 22:41:35 C:/develop/14_Golang/ginpro/main.go:69: OK hello parameter
+2022/10/05 23:56:42 C:/develop/14_Golang/ginpro/main.go:21: log start.
